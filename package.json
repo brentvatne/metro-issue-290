@@ -1,0 +1,5 @@
+{
+  "name": "uris-workspace",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
